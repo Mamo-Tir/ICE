@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{B7B7631A-0321-4569-993B-DD3A2B8D3C42}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ProjectTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectTest/Program.cs">
+    <Files>
+      <File FileName="ProjectTest/Controllers/ToDoController.cs" Line="24" Column="1" IsPinned="True" />
+      <File FileName="ProjectTest/Models/TodoModels.cs" Line="12" Column="36" IsPinned="True" />
+      <File FileName="ProjectTest/Views/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="ProjectTest/Views/Shared/_Layout.cshtml" />
+      <File FileName="ProjectTest/Views/Home/Index.cshtml" />
+      <File FileName="ProjectTest/Controllers/HomeController.cs" />
+      <File FileName="ProjectTest/Models/Enums.cs" />
+      <File FileName="ProjectTest/Views/Home/Privacy.cshtml" />
+      <File FileName="ProjectTest/appsettings.json" />
+      <File FileName="ProjectTest/Program.cs" Line="27" Column="1" />
+      <File FileName="ProjectTest/Views/Shared/Error.cshtml" />
+      <File FileName="ProjectTest/Models/ErrorViewModel.cs" />
+      <File FileName="ProjectTest/Views/ToDo/List.cshtml" />
+      <File FileName="ProjectTest/Service/TodoService.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProjectTest" expanded="True">
+            <Node name="ProjectTest" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Service" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+                <Node name="ToDo" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mamo/Projects/ProjectTest/ProjectTest/Service/TodoService.cs" relfile="ProjectTest/Service/TodoService.cs" line="32" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
